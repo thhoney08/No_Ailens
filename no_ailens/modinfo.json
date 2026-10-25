@@ -1,0 +1,96 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "No_Ailens",
+    "name": "No Ailens",
+    "authors": [ "thhoney08" ],
+    "description": "Removes ailen creatures, and their associated maps from the game",
+    "category": "monster_exclude",
+    "dependencies": [ "bn" ]
+  },
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [
+      "mon_blob",
+      "mon_blob_large",
+      "mon_blob_brain",
+      "mon_blob_small",
+      "mon_blob_carpet",
+      "mon_player_blob",
+      "mon_mi_go",
+      "mon_mi_go_slaver",
+      "mon_mi_go_surgeon",
+      "mon_mi_go_guard",
+      "mon_mi_go_myrmidon",
+      "mon_mi_go_scout",
+      "mon_albino_penguin",
+      "mon_amigara_horror",
+      "mon_blank",
+      "mon_blood_sacrifice",
+      "mon_breather",
+      "mon_breather_hub",
+      "mon_darkman",
+      "mon_dementia",
+      "mon_dog_thing",
+      "mon_flaming_eye",
+      "mon_flesh_angel",
+      "mon_flying_polyp",
+      "mon_gozu",
+      "mon_gracke",
+      "mon_headless_dog_thing",
+      "mon_homunculus",
+      "mon_hound_tindalos",
+      "mon_hound_tindalos_afterimage",
+      "mon_human_snail",
+      "mon_hunting_horror",
+      "mon_kreck",
+      "mon_mothman",
+      "mon_shadow",
+      "mon_shadow_snake",
+      "mon_shoggoth",
+      "mon_thing",
+      "mon_twisted_body",
+      "mon_yugg",
+      "mon_vortex",
+      "mon_shade_boss",
+      "mon_shade_boss_clone",
+      "mon_suspended_shade",
+      "mon_suspended_merc",
+      "mon_suspended_merc_summon",
+      "mon_anomaly_boss",
+      "mon_anomaly_boss_clone",
+      "mon_task_force_shade",
+      "mon_dark_wyrm"
+    ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Migoship",
+    "overmaps": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "mi-go_foward_camp",
+    "overmaps": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Mi-Go Encampment",
+    "overmaps": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Mi-Go Scout Tower",
+    "overmaps": [  ],
+    "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Amigara mine",
+    "overmaps": [  ],
+    "occurrences": [ 0, 0 ]
+  }
+]
